@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I’m Ojesh 👋
 
-<!--
-**ojeshfrrr/ojeshfrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn things I get curious about into projects.
 
-Here are some ideas to get you started:
+I mostly build with **TypeScript** and **C#**, from web experiences to native Windows tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I’ve been building
+
+- [ClickForge](https://github.com/ojeshfrrr/ClickForge) — A native Windows autoclicker with fixed CPS, global shortcuts, Roblox foreground checks, and isolated timing tests.
+- [Sora](https://github.com/ojeshfrrr/Sora) — A native Windows hardware hub for the DeepCool LD360 display and Kreo keyboards.
+- [Portfolio website](https://github.com/ojeshfrrr/portfolio-website) — My personal website.
+- [Teen Fiesta Red Room](https://github.com/ojeshfrrr/teen-fiesta-red-room) — An event website.
+
+Currently following whatever idea I can’t stop thinking about. 🌱
