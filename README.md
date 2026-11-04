@@ -8,13 +8,15 @@ I follow a “could this exist?” thought until it turns into something you can
 
 **TypeScript** for the web. **C#** for Windows tools. Curiosity for the rest.
 
-## Top projects
+## Projects
 
-- **[Larpiano](https://github.com/ojeshfrrr/larpiano)**: A Windows MIDI-to-keyboard piano player with configurable piano mappings.
-- **[ClickForge](https://github.com/ojeshfrrr/ClickForge)**: A native Windows autoclicker with fixed CPS, global shortcuts, Roblox foreground checks, and timing tests.
-- **[Forklight](https://github.com/ojeshfrrr/forklight)** · 🚧 **In development**: An experimental Windows workspace for local coding agents.
-- **[Sora](https://github.com/ojeshfrrr/Sora)**: A Windows hardware hub for the DeepCool LD360 display and Kreo keyboards.
-- **[OVIO](https://github.com/ojeshfrrr/portfolio-website)**: My digital studio portfolio, with case studies and a project brief composer.
+| Project | Showcase | Area |
+| --- | --- | --- |
+| Larpiano | [Live app](https://larpiano.portways.app/) · [GitHub](https://github.com/ojeshfrrr/larpiano) | Windows MIDI-to-keyboard piano player |
+| ClickForge | [GitHub](https://github.com/ojeshfrrr/ClickForge) | Native Windows autoclicker with fixed CPS and global shortcuts |
+| Forklight<br>🚧 In development | [GitHub](https://github.com/ojeshfrrr/forklight) | Experimental Windows workspace for local coding agents |
+| Sora | [GitHub](https://github.com/ojeshfrrr/Sora) | Windows hub for the DeepCool LD360 display and Kreo keyboards |
+| OVIO | [GitHub](https://github.com/ojeshfrrr/portfolio-website) | Digital studio portfolio with case studies and a project brief composer |
 
 ---
 
