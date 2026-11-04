@@ -29,7 +29,7 @@
     <circle cx="976" cy="113" r="5" fill="#F0E8DE"/><text x="936" y="98" fill="#b9b0a7">CLICKFORGE</text>
     <circle cx="1088" cy="154" r="6" fill="#D9824B"/><text x="1071" y="139" fill="#F0E8DE">SORA</text>
     <circle cx="977" cy="236" r="6" fill="#D9824B"/><text x="943" y="262" fill="#F0E8DE">OVIO</text>
-    <circle cx="1156" cy="126" r="7" fill="#101214" stroke="#D9824B" stroke-width="2" stroke-dasharray="3 2"/><text x="1099" y="108" fill="#D9824B">FORKLIGHT · WIP</text>
+    <circle cx="1156" cy="126" r="7" fill="#101214" stroke="#D9824B" stroke-width="2" stroke-dasharray="3 2"/><text x="1168" y="109" text-anchor="end" fill="#D9824B">FORKLIGHT</text>
   </g>
   <path d="M42 324h690" stroke="#332d29" stroke-width="2"/>
   <text x="42" y="341" fill="#81786f" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">PUBLIC PROFILE COUNTS · A DATED SNAPSHOT, NOT A LIVE COUNTER</text>
