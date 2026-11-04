@@ -8,6 +8,8 @@ I follow a “could this exist?” thought until it turns into something you can
 
 **TypeScript** for the web. **C#** for Windows tools. Curiosity for the rest.
 
+**Portfolio:** [OVIO — my digital studio](https://ovio.portways.app)
+
 ## Projects
 
 | Project | Showcase | Area |
