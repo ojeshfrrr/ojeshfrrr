@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">Ojesh's repo signal</title>
+  <desc id="desc">A charcoal and copper GitHub snapshot: 601 contributions in the last year, 14 repositories, 5 starred repositories, 3 followers, and a constellation of five featured projects.</desc>
+  <rect x="1" y="1" width="1198" height="348" rx="18" fill="#101214" stroke="#514237" stroke-width="2"/>
+  <path d="M785 26v298" stroke="#332d29" stroke-width="2"/>
+  <text x="38" y="47" fill="#D9824B" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4">OJESH / REPO SIGNAL</text>
+  <text x="1160" y="47" fill="#9a9188" font-family="Arial,sans-serif" font-size="13" text-anchor="end" letter-spacing="1">SNAPSHOT · 04 NOV 2026</text>
+  <text x="38" y="166" fill="#F0E8DE" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-5">601</text>
+  <text x="42" y="197" fill="#b9b0a7" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">CONTRIBUTIONS / LAST 12 MONTHS</text>
+  <path d="M42 220h690" stroke="#332d29" stroke-width="2"/>
+  <g font-family="Arial,sans-serif">
+    <text x="42" y="271" fill="#F0E8DE" font-size="31" font-weight="700">14</text>
+    <text x="42" y="294" fill="#9a9188" font-size="12" letter-spacing="1.5">REPOSITORIES</text>
+    <text x="219" y="271" fill="#F0E8DE" font-size="31" font-weight="700">5</text>
+    <text x="219" y="294" fill="#9a9188" font-size="12" letter-spacing="1.5">STARRED</text>
+    <text x="396" y="271" fill="#F0E8DE" font-size="31" font-weight="700">3</text>
+    <text x="396" y="294" fill="#9a9188" font-size="12" letter-spacing="1.5">FOLLOWERS</text>
+    <text x="573" y="271" fill="#D9824B" font-size="31" font-weight="700">01</text>
+    <text x="573" y="294" fill="#9a9188" font-size="12" letter-spacing="1.5">IN DEVELOPMENT</text>
+  </g>
+  <g stroke="#615044" stroke-width="1" opacity=".65">
+    <path d="M818 92h340M818 150h340M818 208h340M818 266h340"/>
+    <path d="M874 70v225M980 70v225M1086 70v225" stroke-dasharray="2 7"/>
+  </g>
+  <text x="820" y="78" fill="#F0E8DE" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">PROJECT CONSTELLATION</text>
+  <path d="M847 156C904 150 920 110 976 113S1032 172 1088 154 1129 116 1156 126M847 156c26 44 65 82 130 80s93-43 111-82m-111-41c-7 35-8 59 0 123" fill="none" stroke="#805a40" stroke-width="2" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif" font-size="12" letter-spacing="1">
+    <circle cx="847" cy="156" r="6" fill="#D9824B"/><text x="820" y="139" fill="#F0E8DE">LARPIANO</text>
+    <circle cx="976" cy="113" r="5" fill="#F0E8DE"/><text x="936" y="98" fill="#b9b0a7">CLICKFORGE</text>
+    <circle cx="1088" cy="154" r="6" fill="#D9824B"/><text x="1071" y="139" fill="#F0E8DE">SORA</text>
+    <circle cx="977" cy="236" r="6" fill="#D9824B"/><text x="943" y="262" fill="#F0E8DE">OVIO</text>
+    <circle cx="1156" cy="126" r="7" fill="#101214" stroke="#D9824B" stroke-width="2" stroke-dasharray="3 2"/><text x="1099" y="108" fill="#D9824B">FORKLIGHT · WIP</text>
+  </g>
+  <path d="M42 324h690" stroke="#332d29" stroke-width="2"/>
+  <text x="42" y="341" fill="#81786f" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">PUBLIC PROFILE COUNTS · A DATED SNAPSHOT, NOT A LIVE COUNTER</text>
+</svg>
